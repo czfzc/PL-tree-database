@@ -1,0 +1,6 @@
+﻿  DataStruct.cpp
+C:\Users\peigo\source\repos\SimpleDatasheet\SimpleDatasheet\DataStruct.cpp(45,12): warning C4018: “>”: 有符号/无符号不匹配
+C:\Users\peigo\source\repos\SimpleDatasheet\SimpleDatasheet\DataStruct.cpp(78,8): warning C4018: “>”: 有符号/无符号不匹配
+C:\Users\peigo\source\repos\SimpleDatasheet\SimpleDatasheet\DataStruct.cpp(124,11): warning C4018: “<=”: 有符号/无符号不匹配
+C:\Users\peigo\source\repos\SimpleDatasheet\SimpleDatasheet\DataStruct.cpp(168,11): warning C4018: “<=”: 有符号/无符号不匹配
+  SimpleDatasheet.vcxproj -> C:\Users\peigo\source\repos\SimpleDatasheet\Debug\SimpleDatasheet.exe
